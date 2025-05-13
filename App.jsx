@@ -4,8 +4,8 @@
 import { useState, useEffect } from 'react';
 import { createClient } from '@supabase/supabase-js';
 
-const supabaseUrl = 'https://<SEU_PROJETO>.supabase.co';
-const supabaseKey = '<SUA_CHAVE_ANON>'; // Substitua pelos seus dados
+const supabaseUrl = 'https://crwevgfnfmjtxppnluik.supabase.co';
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNyd2V2Z2ZuZm1qdHhwcG5sdWlrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDcxNjUzMzMsImV4cCI6MjA2Mjc0MTMzM30.7SJmNlAkKvXPuR8h4sxOG98DvU0nSqG6BUtghPxNt78';
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 export default function App() {
