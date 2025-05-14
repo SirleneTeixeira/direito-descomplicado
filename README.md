@@ -1,22 +1,42 @@
-# Direito Descomplicado – Chat Jurídico para Trabalhadores
+# 🧠 Direito Descomplicado – SaaS Jurídico Trabalhista
 
-Este é um projeto de SaaS (Software como Serviço) criado pela Dra. Sirlene Teixeira, especialista em Direito do Trabalho.
+Plataforma inteligente voltada para trabalhadores CLT que desejam entender seus direitos com clareza, humanidade e acolhimento.
 
-🎯 O objetivo é oferecer um **chat automatizado**, empático e informativo, com base na CLT e em perguntas frequentes, ajudando trabalhadores a entenderem seus direitos de forma simples e direta.
+Este sistema oferece:
 
-## ✨ Funcionalidades:
-- Chat que responde dúvidas com carinho e bom humor
-- Respostas automáticas com base na CLT e no FAQ
-- Busca de artigos por número
-- Atualizações legislativas
-- Modelos de documentos prontos para download
-- Painel administrativo para gerenciar conteúdo
-
-## 🛠️ Tecnologias:
-- React
-- Supabase
-- Deploy via Vercel
+✅ Chatbot jurídico humanizado com respostas baseadas na CLT  
+✅ Consulta interativa dos principais artigos trabalhistas  
+✅ Modelos de documentos prontos para download (PDF)  
+✅ Calculadora de horas extras  
+✅ Painel administrativo seguro para atualizações legislativas  
+✅ Visual elegante: preto e dourado, com identidade personalizada
 
 ---
 
-💛 *Se tem direito envolvido, tem Sirlene no assunto.*
+## 🔐 Painel Administrativo
+
+- Email: `sirleneteixeiraadv@gmail.com`  
+- Senha: `18836979porcaoA@78`  
+- Campos privados: Nome, profissão, CNPJ da administradora
+
+---
+
+## 🧠 Conectado ao Supabase
+
+O sistema utiliza Supabase para armazenar:
+- Tabela `faq`: perguntas e respostas frequentes
+- Tabela `clt`: artigos principais com resumo e conteúdo completo
+
+---
+
+## 🚀 Deploy gratuito pela Vercel
+
+Link: [https://direito-descomplicado.vercel.app](https://direito-descomplicado.vercel.app)  
+> (aguardando desbloqueio de limite de deploy gratuito)
+
+---
+
+### ✨ Desenvolvido com React + TailwindCSS + Supabase
+
+Por: **Dra. Sirlene Teixeira – Advogada Trabalhista**  
+💼 “Se tem direito envolvido, tem Sirlene no assunto.”
